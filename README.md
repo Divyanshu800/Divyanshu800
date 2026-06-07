@@ -1,61 +1,134 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Divyanshu Pathak</h1>
-<h3 align="center">Software Engineer | AI/ML Engineer | Backend Developer (Java, Spring, Python) | Distributed Systems (Kafka, Cassandra) | Full-Stack (MERN/MEAN) Background | Strong Problem-Solving with C++ DSA | Exploring System Design</h3>
-<br></br>
-<br></br>
-<img align="right" alt="Coding" width="350" height="300" src="https://t3.ftcdn.net/jpg/07/13/35/82/360_F_713358254_pM12hayFvGkMbXwU1wERawwC2Tu3Mfpy.jpg"/>
+# Hi 👋, I'm Divyanshu Pathak
 
+### Software Engineer | Backend, Distributed Systems & AI/ML Engineer
 
-* 🔭 I’m currently working on [StudyNotion](https://github.com/Divyanshu300/StudyNotion) and [Smart Contact Manager](https://github.com/Divyanshu300/smart-contact-manager)
-  
-* 🌱 I’m leveraging my skills in **AI/ML and Backend(Python, Java, Spring, Kafka, Cassandra)**
+Building scalable backend platforms, event-driven microservices, real-time data pipelines, ML inference systems, and AI-powered applications using Java, Python, Spring Boot, Kafka, NATS, Kubernetes, Cassandra, AWS, RAG, and LLMs.
 
-* 👨‍💻 I'm looking for exploring on **System Design and building Scalable architectures**
-* 💬 Ask me about **Backend Technologies(Java Spring, Python), DSA**
+---
 
-* 📫 How to reach me **pathakdivyanshu300@gmail.com**
-* 📄 Know about my experiences through [Resume](https://drive.google.com/file/d/1Fhk9VnJUp3fzifW297x0zk0THJXKH7cL/view?usp=sharing)
+## 🚀 Currently Working On
 
-<br></br>
-<br></br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshu300&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshu300" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu300" alt="divyanshu300" /></a> </p>
+* Distributed microservices and streaming systems using **Java, Spring Boot, Kafka, NATS JetStream**
+* Real-time prediction platforms and **ML inference pipelines**
+* Cloud-native deployments with **Docker, Kubernetes, AWS**
+* Agentic AI systems using **LangChain, LangGraph, Vector Databases, and LLMs**
+* System Design, Distributed Computing, and High-Availability Architectures
 
-<br></br>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/idivyanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idivyanshu" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/pathakdivyanshu300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pathakdivyanshu800" height="30" width="40" /></a>
-</p>
+## 💼 Professional Experience
 
-<br></br>
+### Software Engineer @ Contevolve (Client: Trapeze Group)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://cassandra.apache.org/_/index.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/System_design" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1829/1829586.png" alt="system design" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/4149/4149654.png" alt="ai/ml" width="40" height="40"/>
-  </a></p>
+* Built distributed microservices processing **10,000+ events/sec** for real-time transit prediction systems.
+* Designed production ML inference pipelines using **XGBoost** and **Time-Series Forecasting**.
+* Developed event-driven architectures using **Kafka, NATS JetStream, Cassandra, and Spring Boot**.
+* Implemented Kubernetes-based deployments with leader election, observability, health monitoring, and production reliability mechanisms.
+* Optimized high-throughput systems, reducing end-to-end latency by **65%**.
 
-<br></br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu300&show_icons=true&locale=en&layout=compact" alt="divyanshu300" /></p>
+## 🔥 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu300&show_icons=true&locale=en" alt="divyanshu300" /></p>
+### 🤖 AI-Powered Incident Resolution System
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshu300&" alt="divyanshu300" /></p>
+**RAG • Agentic AI • LangChain • Pinecone • NATS • Mistral**
+
+* Agentic RAG platform combining semantic search, tool-calling, and multi-agent orchestration.
+* Automated incident analysis and intelligent resolution workflows.
+* Event-driven asynchronous communication using NATS.
+
+### 📈 Real-Time Transit Prediction Platform
+
+**XGBoost • Kafka • Spring Boot • Time-Series Forecasting**
+
+* Real-time ML prediction platform for driving-time and dwell-time forecasting.
+* Combined historical baselines with live inference models.
+* Streaming architecture processing large-scale transportation events.
+
+### ⚡ Distributed Cache Optimization Service
+
+**Cassandra • Protocol Buffers • Spring Boot**
+
+* Reduced cache footprint by **95%**.
+* Improved retrieval latency by **80%**.
+* Increased database efficiency by **60%**.
+
+### 🎓 OpportuNest – Placement Management System
+
+**MERN Stack • Resume Parsing • ATS Scoring**
+
+* Full-stack campus placement platform serving **1000+ users**.
+* Resume parsing, ATS scoring, internship and placement workflows.
+* Published in **IEEE Xplore**.
+
+### 📚 StudyNotion – Learning Management Platform
+
+**MERN Stack**
+
+* Full-stack EdTech platform with authentication, course management, dashboards, and payment integration.
+
+### 📇 Smart Contact Manager
+
+**Java • Spring Boot • MySQL**
+
+* Secure contact management system with authentication, profile management, and cloud-based storage.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+Java • Python • SQL • C++ • JavaScript
+
+### Backend & Distributed Systems
+
+Spring Boot • Microservices • Kafka • NATS JetStream • REST APIs • Event-Driven Architecture • API Gateway • Concurrency • Distributed Caching
+
+### AI & ML
+
+XGBoost • RAG • Agentic AI • LangChain • LangGraph • LLMs • Time-Series Forecasting • Semantic Search • Vector Databases • FastAPI • PyTorch
+
+### Cloud & DevOps
+
+AWS • Docker • Kubernetes • CI/CD • Linux • Observability • High Availability
+
+### Databases
+
+Cassandra • Redis • PostgreSQL • MongoDB • MySQL • Pinecone
+
+---
+
+## 🧠 Interests
+
+* Distributed Systems
+* Event-Driven Architectures
+* Machine Learning Systems
+* Agentic AI
+* Cloud-Native Applications
+* System Design
+* Real-Time Data Processing
+* High-Performance Backend Engineering
+
+---
+
+## 🏆 Highlights
+
+* Software Engineer @ Contevolve
+* IEEE Xplore Publication (OpportuNest)
+* Patent Publication – IoT Enabled Street Light Regulation System
+* 300+ DSA Problems Solved (LeetCode)
+* Open to Backend, Distributed Systems, AI/ML, and Software Engineering opportunities
+
+---
+
+## 📫 Connect With Me
+
+📧 [pathakdivyanshu300@gmail.com](mailto:pathakdivyanshu300@gmail.com)
+
+💼 LinkedIn: linkedin.com/in/idivyanshu
+
+💻 LeetCode: leetcode.com/u/pathakdivyanshu300
+
+🚀 Always interested in building scalable systems, intelligent platforms, and solving challenging engineering problems.
